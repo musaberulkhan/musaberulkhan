@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+### I'm Ahmed Musaberul Khan, software engineering student from Yangzhou University.🏫
+I love to take challenges, solve problems with programming and making my time more efficient is my nature. I'm passionate to become a full-stack web developer.
+
+
 
 <!--
 **musaberulkhan/musaberulkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
