@@ -1,20 +1,37 @@
-### Hello World! 👋
-### I'm Ahmed Musaberul Khan, software engineering student from Yangzhou University.🏫
-I love to take challenges, solve problems with programming and making my time more efficient is my nature. I'm passionate to become a full-stack web developer.
+# 👋 Hi, I'm Ahmed Musaberul Khan!
 
+🎨 **Frontend Web Developer** | 🌍 Dhaka, Bangladesh  
+Passionate about crafting user-centric web applications with 3+ years of experience in healthcare and e-commerce industries.  
 
+---
 
-<!--
-**musaberulkhan/musaberulkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Proficient in **React**, **Adobe Experience Manager Frontend**, and **NEXT.js**.
+- Skilled in creating scalable, high-quality solutions and delivering on tight deadlines.  
+- Experienced in integrating Learning Management Systems (LMS) and building reusable, responsive components.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+### Current Role  
+**Associate Software Engineer** @ Brain Station 23 Ltd (Nov 2023 – Present)  
+- Developing and managing AEM components for global clients in the healthcare domain.  
+- Leading Moodle-based LMS integration and custom feature development.  
+
+---
+
+## 🔧 Skills
+**Languages & Tools**  
+- **Frontend**: HTML, CSS, SASS, JavaScript (ES6), React, Redux  
+- **Backend**: MySQL, Laravel, Node.js  
+- **Tools**: GitHub, Storybook, Gulp, Webpack, Figma, Firebase  
+
+**Certifications**  
+- **Meta Front-End Developer** (Coursera)  
+- **Front-End Development Libraries** (freeCodeCamp)  
+
+---
+
+## 📫 Let's Connect
+📧 Email: [musaberulkhan@gmail.com](mailto:musaberulkhan@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/musaberul](https://linkedin.com/in/musaberul)
