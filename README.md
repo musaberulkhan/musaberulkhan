@@ -14,7 +14,7 @@ Passionate about crafting user-centric web applications with 3+ years of experie
 
 ## 💼 What I Do
 ### Current Role  
-**Associate Software Engineer** @ Brain Station 23 Ltd (Nov 2023 – Present)  
+**Associate Software Engineer** @ Brain Station 23 Ltd (July 2022 – Present)  
 - Developing and managing AEM components for global clients in the healthcare domain.  
 - Leading Moodle-based LMS integration and custom feature development.  
 
